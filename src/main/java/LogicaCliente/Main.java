@@ -71,7 +71,7 @@ public class Main {
         System.out.println("minutos y segundos:"+"\t"+objcancion1.getMinutos()+":"+objcancion1.getSegundos());
         System.out.println("año publicacion:"+"\t"+mensaje);
                 
-       System.out.println("Cómo tan muchacho"); 
+       System.out.println("ⓘ Mensaje 𝙋𝙧𝙚𝙢𝙞𝙪𝙢 no es posible verlo"); 
         
 
        
